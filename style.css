@@ -22,7 +22,7 @@ header{
 iframe{
     margin: 10px auto;
 
-    width: auto;
+    
     
 }
  .bloc{
@@ -57,7 +57,14 @@ body{
     margin-top: 20px;
     
 }
+.Po{
+    margin: 10px;
+}
 .foot{
+    display: flex;
+    justify-content: right;
+}
+footer{
     display: inline-block;
     background-color: lightgrey;
     width: 920px;
